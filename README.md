@@ -13,11 +13,6 @@ SafeSeat is designed to improve safety and comfort for women travelling by train
 - Pages and components split for easy extension
 - Simple onboarding and booking flows
 
-## Demo
-Add screenshots or a short GIF showing the main flows (search, seat allocation, booking). Place images in `public/` and reference them here. Example:
-
-![App screenshot](public/train.png)
-
 ## Project Structure
 SafeSeat-Frontend/
 │
@@ -61,12 +56,5 @@ npm run build
 ```bash
 npm run preview
 ```
-
-Notes: If you use yarn, replace `npm` with `yarn` accordingly.
-
-## Usage
-- Open http://localhost:8080 (or the URL printed by the dev server)
-- Use the UI to search trains, select journeys, and test seat allocation flows.
----
 
 Thank you for working on SafeSeat — a product that focuses on safer travel for women.

@@ -9,22 +9,18 @@ It intelligently allocates train seats to ensure **secure, comfortable, and opti
 SafeSeat-Frontend/
 │
 ├── public/
-│   ├── train.png            # Favicon / App icon
-│   └── index.html           # Meta and title setup
+│   ├── train.png
+│   └── index.html
 │
 ├── src/
-│   ├── components/          # Reusable UI components
-│   ├── pages/               # Page components (Home, Booking, etc.)
-│   ├── assets/              # Images and icons
-│   ├── App.tsx              # Main React component
-│   └── main.tsx             # React entry point
+│   ├── components/
+│   ├── pages/
+│   ├── App.tsx
+│   └── main.tsx
 │
-├── package.json
-├── README.md
-└── tsconfig.json
-
+└── package.json
 ---
 #  Development Commands
 npm install -Install dependencies
 npm run dev - Run
-
+--
